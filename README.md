@@ -32,7 +32,7 @@ Compute the hash of the file you received and compare it with the value below. W
 <!-- SHA256:BEGIN -->
 | Installer | SHA-256 |
 | --- | --- |
-| Windows | `929ed384b4946a791500da702b656885a7e05b68aa94b8bf85cf9f21443200c1` |
+| Windows | `d30aa9cd877aa9ce4989f2c9e5accafda534cdb27bc873c6fed5471fbc38c33f` |
 | macOS | `dda50fe7f43a9eaecb37a99662b938fa06b8e1ad0ed82cee9a59f0cedf555f75` |
 | Linux | `4fd9ef8451e33c1716513cc5569fe3b43d7ec1b7163986faa458351613fa52ab` |
 <!-- SHA256:END -->
